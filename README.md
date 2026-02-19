@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido durante a DIO utilizando a ferramenta NotebookLM como apoio para estruturação, organização e aprofundamento da análise.
+Este projeto é um resumo e foi desenvolvido durante o BootCamp da BRADESCO - GenIA e DADOS - DIO, utilizando a ferramenta NotebookLM como apoio para estruturação, organização e aprofundamento da análise.
 
 O estudo explora a transformação da contabilidade em 2026, destacando a integração entre:
 
@@ -11,7 +11,7 @@ O estudo explora a transformação da contabilidade em 2026, destacando a integr
 - 🏛 Fisco 4.0
 - ☁ Arquiteturas de Dados (Data Lake)
 
-A proposta central é demonstrar como a tecnologia redefine o papel do contador, que deixa de ser operacional para se tornar estratégico e orientado por dados.
+A proposta central é demonstrar como a tecnologia redefine o papel do contador que deixa de ser operacional para se tornar estratégico e orientado por dados.
 
 ---
 
