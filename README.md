@@ -2,50 +2,43 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido durante a DIO com o objetivo de analisar a transformação da contabilidade em 2026, destacando a integração entre:
+Este projeto foi desenvolvido durante a DIO utilizando a ferramenta NotebookLM como apoio para estruturação, organização e aprofundamento da análise.
+
+O estudo explora a transformação da contabilidade em 2026, destacando a integração entre:
 
 - 📊 Análise de Dados
 - 🤖 Inteligência Artificial
 - 🏛 Fisco 4.0
 - ☁ Arquiteturas de Dados (Data Lake)
 
-O estudo aborda a evolução do papel do contador, que deixa de ser operacional para se tornar estratégico e orientado por dados.
+A proposta central é demonstrar como a tecnologia redefine o papel do contador, que deixa de ser operacional para se tornar estratégico e orientado por dados.
 
 ---
 
 ## 🎯 Objetivo
 
-Demonstrar como a tecnologia e a IA estão redefinindo:
+Analisar como Dados e Inteligência Artificial impactam:
 
 - Processos contábeis
-- Compliance digital
+- Compliance digital contínuo
 - Auditoria preditiva
 - Consultoria estratégica baseada em dados
 
 ---
 
-## 🛠 Tecnologias e Conceitos Envolvidos
+## 🛠 Ferramentas Utilizadas
 
-- Inteligência Artificial (Modelos de Linguagem)
-- Automação de Processos
-- Data Lakes
-- Business Intelligence
-- Cruzamento de Dados Fiscais
-- Fisco 4.0
+- NotebookLM (estruturação e análise de conteúdo)
+- Pesquisa bibliográfica especializada
+- Conceitos de Business Intelligence
+- Modelos de Inteligência Artificial
 
 ---
 
 ## 📌 Principais Insights
 
-- A IA não substitui o contador, mas substitui quem ignora a tecnologia.
-- O Compliance deixou de ser periódico e passou a ser contínuo.
-- Dados centralizados são ativos estratégicos.
-- A nova contabilidade é orientada por análise preditiva.
+- A IA não substitui o contador, mas substitui o profissional que ignora a tecnologia.
+- O Compliance tornou-se contínuo e automatizado.
+- Data Lake
 
----
-
-## 👩🏻‍💻 Autora
-
-Gabriela Ribeiro  
-Estudante de ADS | Contabilidade | Dados  
 
